@@ -1,0 +1,24 @@
+
+.home NavLink {
+    text-decoration: none;
+    color : black;
+}
+
+.Blog a:hover,
+.Blog a:active,
+.Blog a.active {
+    color : blue
+}
+
+.Blog div {
+margin-bottom: 20px;
+text-align: center;
+}
+
+.Blog div input {
+    width: 50%;
+    height: 20px;
+    font-size: 15px;
+padding-left: 10px;
+}
+
